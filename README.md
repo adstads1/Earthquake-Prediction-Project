@@ -14,6 +14,6 @@ Within this Jupyter notebook, I have gone through the Data Science pipeline and 
 
 More information about the project can be read in the [notebook](Earthquake_Analysis.ipynb).
 
-**PCA: The model used in this project isn't highly accurate but is a good starting project to develop accurate models.**
+**PCA: The model used in this project isn't highly accurate but is a good starting project to develop upon.**
 
 [Here is the report for curiosity](Earthquake_pbi.pdf)
