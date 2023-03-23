@@ -12,6 +12,8 @@ Within this Jupyter notebook, I have gone through the Data Science pipeline and 
 - A Multivarient Linear Regression model with depth and time as the features.
 - Simple evaluation techniquestion which will be useful for hyperparameter tuning.
 
+More information about the project can be read in the [notebook](Earthquake_Analysis.ipynb).
+
 **PCA: The model used in this project isn't highly accurate but is a good starting project to develop accurate models**
 
 [Here is the end report for curiosity](Earthquake_pbi.pdf)
